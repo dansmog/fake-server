@@ -1,4 +1,4 @@
- [
+[
   {
     "type": "editor",
     "pos": {
@@ -16,7 +16,7 @@
     },
     "id": "text12019203",
     "data": {
-      "body": "text changes",
+      "body": "text changes"
     }
   },
   {
@@ -31,4 +31,3 @@
     }
   }
 ]
-

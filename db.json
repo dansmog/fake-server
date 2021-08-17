@@ -1,36 +1,34 @@
  [
   {
-    type: "editor",
-    pos: {
-      x: 200,
-      y: 200,
+    "type": "editor",
+    "pos": {
+      "x": 200,
+      "y": 200
     },
-    id: "",
-    data: {
-   
-    },
+    "id": "editor123123",
+    "data": null
   },
   {
-    type: "text",
-    pos: {
-      x: 500,
-      y: 200,
+    "type": "text",
+    "pos": {
+      "x": 500,
+      "y": 200
     },
-    id: "text12019203",
-    data: {
-      body: "text changes",
-    },
+    "id": "text12019203",
+    "data": {
+      "body": "text changes",
+    }
   },
   {
-    type: "text",
-    pos: {
-      x: 500,
-      y: 500,
+    "type": "text",
+    "pos": {
+      "x": 500,
+      "y": 500
     },
-    id: "text0182313",
-    data: {
-      body: "This is another text here"
-    },
+    "id": "text0182313",
+    "data": {
+      "body": "This is another text here"
+    }
   }
 ];
 

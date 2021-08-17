@@ -1,0 +1,36 @@
+ [
+  {
+    type: "editor",
+    pos: {
+      x: 200,
+      y: 200,
+    },
+    id: "",
+    data: {
+   
+    },
+  },
+  {
+    type: "text",
+    pos: {
+      x: 500,
+      y: 200,
+    },
+    id: "text12019203",
+    data: {
+      body: "text changes",
+    },
+  },
+  {
+    type: "text",
+    pos: {
+      x: 500,
+      y: 500,
+    },
+    id: "text0182313",
+    data: {
+      body: "This is another text here"
+    },
+  }
+];
+
